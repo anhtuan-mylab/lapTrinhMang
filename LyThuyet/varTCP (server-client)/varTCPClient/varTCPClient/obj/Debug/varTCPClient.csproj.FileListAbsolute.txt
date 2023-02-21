@@ -1,0 +1,6 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPClient\varTCPClient\bin\Debug\varTCPClient.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPClient\varTCPClient\bin\Debug\varTCPClient.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPClient\varTCPClient\bin\Debug\varTCPClient.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPClient\varTCPClient\obj\Debug\varTCPClient.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPClient\varTCPClient\obj\Debug\varTCPClient.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPClient\varTCPClient\obj\Debug\varTCPClient.csprojResolveAssemblyReference.cache

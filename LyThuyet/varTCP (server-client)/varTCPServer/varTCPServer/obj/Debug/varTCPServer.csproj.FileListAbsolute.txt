@@ -1,0 +1,6 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPServer\varTCPServer\bin\Debug\varTCPServer.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPServer\varTCPServer\bin\Debug\varTCPServer.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPServer\varTCPServer\bin\Debug\varTCPServer.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPServer\varTCPServer\obj\Debug\varTCPServer.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPServer\varTCPServer\obj\Debug\varTCPServer.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\varTCPServer\varTCPServer\obj\Debug\varTCPServer.pdb

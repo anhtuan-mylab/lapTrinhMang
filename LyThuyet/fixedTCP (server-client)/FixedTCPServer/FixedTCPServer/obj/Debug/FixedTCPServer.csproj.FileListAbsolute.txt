@@ -1,0 +1,6 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPServer\FixedTCPServer\bin\Debug\FixedTCPServer.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPServer\FixedTCPServer\bin\Debug\FixedTCPServer.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPServer\FixedTCPServer\bin\Debug\FixedTCPServer.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPServer\FixedTCPServer\obj\Debug\FixedTCPServer.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPServer\FixedTCPServer\obj\Debug\FixedTCPServer.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPServer\FixedTCPServer\obj\Debug\FixedTCPServer.pdb

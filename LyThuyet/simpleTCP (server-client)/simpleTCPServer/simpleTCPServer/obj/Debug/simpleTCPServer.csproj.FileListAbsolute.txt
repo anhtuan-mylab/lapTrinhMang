@@ -1,0 +1,6 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPServer\simpleTCPServer\bin\Debug\simpleTCPServer.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPServer\simpleTCPServer\bin\Debug\simpleTCPServer.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPServer\simpleTCPServer\bin\Debug\simpleTCPServer.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPServer\simpleTCPServer\obj\Debug\simpleTCPServer.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPServer\simpleTCPServer\obj\Debug\simpleTCPServer.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPServer\simpleTCPServer\obj\Debug\simpleTCPServer.pdb

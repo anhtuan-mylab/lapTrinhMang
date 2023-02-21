@@ -1,0 +1,5 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPClient\simpleTCPClient\bin\Debug\simpleTCPClient.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPClient\simpleTCPClient\bin\Debug\simpleTCPClient.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPClient\simpleTCPClient\bin\Debug\simpleTCPClient.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPClient\simpleTCPClient\obj\Debug\simpleTCPClient.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleTCPClient\simpleTCPClient\obj\Debug\simpleTCPClient.pdb

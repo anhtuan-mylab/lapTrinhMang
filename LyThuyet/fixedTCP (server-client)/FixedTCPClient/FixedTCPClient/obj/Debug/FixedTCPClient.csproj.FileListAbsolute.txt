@@ -1,0 +1,6 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPClient\FixedTCPClient\bin\Debug\FixedTCPClient.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPClient\FixedTCPClient\bin\Debug\FixedTCPClient.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPClient\FixedTCPClient\bin\Debug\FixedTCPClient.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPClient\FixedTCPClient\obj\Debug\FixedTCPClient.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPClient\FixedTCPClient\obj\Debug\FixedTCPClient.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\FixedTCPClient\FixedTCPClient\obj\Debug\FixedTCPClient.csprojResolveAssemblyReference.cache
