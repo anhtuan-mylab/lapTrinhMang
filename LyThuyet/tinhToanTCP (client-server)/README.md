@@ -21,11 +21,11 @@ Thực hiện các chức năng như :
 
 Bên Server mở kết nối và trong trạng thái chờ.
 
-![Bên Server sẽ gửi các yêu cầu thực hiện phép toán cho bên Client.](/hinh_anh/Untitled1.png)
+![Bên Server sẽ gửi các yêu cầu thực hiện phép toán cho bên Client.](hinh_anh/Untitled1.png)
 
 Bên Server sẽ gửi các yêu cầu thực hiện phép toán cho bên Client.
 
-![Bên Client sẽ thực hiện chọn phép toán cần tính và nhập số a, b.](/hinh_anh/Untitled2.png)
+![Bên Client sẽ thực hiện chọn phép toán cần tính và nhập số a, b.](hinh_anh/Untitled2.png)
 
 Bên Client sẽ thực hiện chọn phép toán cần tính và nhập số a, b.
 
