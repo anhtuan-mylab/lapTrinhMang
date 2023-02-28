@@ -10,11 +10,6 @@ Thực hiện các chức năng như :
 - Bên Client sẽ lựa chọn phép toán đồng thời nhập số a và b.
 - Kết quả sẽ được tính toán bên phía server và gửi trả về cho bên client.
 
-**Các nội dung chưa thực hiện được :**
-
-- Chương trình chỉ chạy được 1 lần (tức sau khi thực hiện phép toán đúng thì sẽ kết thúc).
-- Chưa có giới hạn dữ liệu nhập từ bàn phím (báo lỗi nếu nhập số a và b là kí tự).
-
 # Một vài hình ảnh :
 
 ![Bên Server mở kết nối và trong trạng thái chờ.](hinh_anh/Untitled.png)
