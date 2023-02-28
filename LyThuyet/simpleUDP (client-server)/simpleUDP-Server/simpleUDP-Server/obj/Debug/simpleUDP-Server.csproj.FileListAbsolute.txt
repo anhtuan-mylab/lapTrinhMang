@@ -1,0 +1,6 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.pdb

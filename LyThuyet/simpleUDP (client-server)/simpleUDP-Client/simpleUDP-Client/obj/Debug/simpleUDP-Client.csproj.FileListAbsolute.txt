@@ -1,0 +1,5 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.pdb
