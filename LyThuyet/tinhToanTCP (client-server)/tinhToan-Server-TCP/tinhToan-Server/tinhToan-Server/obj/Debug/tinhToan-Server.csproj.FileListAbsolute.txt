@@ -1,0 +1,10 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\bin\Debug\tinhToan-Server.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\bin\Debug\tinhToan-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\bin\Debug\tinhToan-Server.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\obj\Debug\tinhToan-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\obj\Debug\tinhToan-Server.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\bin\Debug\tinhToan-Server.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\obj\Debug\tinhToan-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\obj\Debug\tinhToan-Server.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\bin\Debug\tinhToan-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Server\tinhToan-Server\bin\Debug\tinhToan-Server.pdb

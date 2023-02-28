@@ -1,0 +1,12 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\bin\Debug\tinhToan-Client.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\bin\Debug\tinhToan-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\bin\Debug\tinhToan-Client.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\obj\Debug\tinhToan-Client.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\obj\Debug\tinhToan-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\obj\Debug\tinhToan-Client.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\bin\Debug\tinhToan-Client.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\obj\Debug\tinhToan-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\obj\Debug\tinhToan-Client.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\bin\Debug\tinhToan-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\bin\Debug\tinhToan-Client.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\tinhToanTCP (client-server)\tinhToan-Server-TCP\tinhToan-Client\tinhToan-Client\obj\Debug\tinhToan-Client.csprojResolveAssemblyReference.cache
