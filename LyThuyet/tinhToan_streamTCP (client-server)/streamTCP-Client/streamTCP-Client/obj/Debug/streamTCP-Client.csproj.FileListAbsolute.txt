@@ -1,0 +1,10 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\bin\Debug\streamTCP-Client.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\bin\Debug\streamTCP-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\bin\Debug\streamTCP-Client.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\obj\Debug\streamTCP-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\obj\Debug\streamTCP-Client.pdb
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\bin\Debug\streamTCP-Client.exe.config
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\obj\Debug\streamTCP-Client.exe
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\obj\Debug\streamTCP-Client.pdb
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\bin\Debug\streamTCP-Client.exe
+C:\Users\anhtuan\Desktop\streamTCP (client-server)\streamTCP-Client\streamTCP-Client\bin\Debug\streamTCP-Client.pdb
