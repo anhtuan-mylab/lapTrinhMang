@@ -1,0 +1,6 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\theTestUDP (server - client)\theTestUDPServ\theTestUDPServ\bin\Debug\theTestUDPServ.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\theTestUDP (server - client)\theTestUDPServ\theTestUDPServ\bin\Debug\theTestUDPServ.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\theTestUDP (server - client)\theTestUDPServ\theTestUDPServ\bin\Debug\theTestUDPServ.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\theTestUDP (server - client)\theTestUDPServ\theTestUDPServ\obj\Debug\theTestUDPServ.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\theTestUDP (server - client)\theTestUDPServ\theTestUDPServ\obj\Debug\theTestUDPServ.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\theTestUDP (server - client)\theTestUDPServ\theTestUDPServ\obj\Debug\theTestUDPServ.pdb
