@@ -1,0 +1,24 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe.config
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe.config
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe.config
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.exe
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Server\simpleUDP-Server\bin\Debug\simpleUDP-Server.pdb
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Server\simpleUDP-Server\obj\Debug\simpleUDP-Server.csprojResolveAssemblyReference.cache

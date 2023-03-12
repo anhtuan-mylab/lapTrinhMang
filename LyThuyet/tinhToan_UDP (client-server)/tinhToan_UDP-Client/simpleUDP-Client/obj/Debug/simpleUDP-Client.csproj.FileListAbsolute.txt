@@ -1,0 +1,18 @@
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.pdb
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.exe
+F:\1_Share_Folder_Network\Mon Hoc\lt_mang\chuong-02\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.pdb
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe.config
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.exe
+C:\Users\anhtuan\Downloads\lapTrinhMang-main(1)\lapTrinhMang-main\LyThuyet\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.pdb
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe.config
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.exe
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.pdb
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe
+C:\Users\anhtuan\Desktop\simpleUDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.pdb
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe.config
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.exe
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Client\simpleUDP-Client\obj\Debug\simpleUDP-Client.pdb
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.exe
+C:\Users\anhtuan\Desktop\tinhToan_UDP (client-server)\simpleUDP-Client\simpleUDP-Client\bin\Debug\simpleUDP-Client.pdb
